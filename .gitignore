@@ -1,0 +1,5 @@
+# folders to ignore
+Other_files/
+
+# file extension to ignore
+*.asv
